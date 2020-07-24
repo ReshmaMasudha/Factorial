@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Factorial": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}
